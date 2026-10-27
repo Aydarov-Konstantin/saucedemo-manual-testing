@@ -42,5 +42,4 @@ Manual QA documentation for the [SauceDemo](https://www.saucedemo.com/) demo e-c
 
 ## Notes
 
-This repository does not include invented execution results or fabricated defects. Complete `test-summary.md` and add bug reports after a real manual test run.
-
+The test summary contains only observed results from the recorded manual execution. No defects are added unless they are reproduced and documented with evidence.
