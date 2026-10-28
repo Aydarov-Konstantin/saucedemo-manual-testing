@@ -43,3 +43,9 @@ Manual QA documentation for the [SauceDemo](https://www.saucedemo.com/) demo e-c
 ## Notes
 
 The test summary contains only observed results from the recorded manual execution. No defects are added unless they are reproduced and documented with evidence.
+
+<div align="center">
+
+Maintained by [Konstantin Aydarov](https://github.com/Aydarov-Konstantin)
+
+</div>
